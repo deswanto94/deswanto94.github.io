@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            DESWANTO
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http://deswanto94.github.io
 
 
 # Jekyll configuration
@@ -27,7 +27,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: DESWANTO
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
@@ -41,7 +41,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: SIAK #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
