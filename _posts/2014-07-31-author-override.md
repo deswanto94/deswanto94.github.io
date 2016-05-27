@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Author Override"
+title: "WEBSITE"
 author: billy_rick
 modified:
-excerpt: "A post to test author overrides using a data file."
+excerpt: "Kunjungi http://des-wanto.blogspot.cm"
 tags: []
 ---
 
